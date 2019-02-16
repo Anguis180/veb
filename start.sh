@@ -1,1 +1,1 @@
- java -jar out/lec.jar $@
+ java -jar out/lec.jar "$@"
